@@ -9,7 +9,6 @@ Final-year EEE undergrad at **Shahjalal University of Science and Technology (SU
 - 🔹 **Digital design & VLSI:** intern at **Asmicore Semiconductor**, training in the RTL-to-GDSII flow
 - 🔹 **Power electronics:** phase-shift-controlled DC–DC converters, MOSFET gate drive
 - 🔹 **Embedded & hardware:** CPU/ISA design, Arduino, STM32
-- 🔹 **Also into:** solar PV and renewable energy systems
 
 ---
 
